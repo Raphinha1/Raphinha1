@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="280" viewBox="0 0 720 280" role="img" aria-labelledby="title desc">
+<title id="title">RoboCup @Home — Voice Interaction</title>
+<desc id="desc">Python, ROS 2, Vosk and Piper. Speech recognition, synthesis and ROS 2 command topics.</desc>
+
+<rect width="720" height="280" rx="12" fill="#142331"/>
+<rect x="18" y="22" width="4" height="236" rx="2" fill="#6DE4D2"/>
+<text x="42" y="65" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#E8F1F7">RoboCup @Home</text>
+<text x="42" y="115" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#E8F1F7">Voice Interaction</text>
+<text x="42" y="164" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="400" fill="#6DE4D2">Python · ROS 2 · Vosk · Piper</text>
+<text x="42" y="218" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="400" fill="#8DA4B7">Offline speech recognition &amp; synthesis.</text>
+<text x="42" y="257" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="400" fill="#8DA4B7">Spoken instructions to ROS 2 topics.</text>
+<g transform="translate(589 6)" fill="none" stroke="#6DE4D2" stroke-width="2.5" stroke-linecap="round"><rect x="42" y="36" width="20" height="36" rx="10"/><path d="M34 58V63Q34 81 52 81Q70 81 70 63V58M52 81V94M42 94H62"/></g>
+
+</svg>

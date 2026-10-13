@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">I&#x27;m Hiram Pérez. Robotics, ROS 2, voice AI and backend engineering.</title>
+<desc id="desc">Figma-aligned typographic hero with turquoise top rule and original subtle circuit geometry.</desc>
+
+<rect width="1200" height="420" fill="#0B111B"/>
+<rect width="1200" height="5" fill="#6DE4D2"/>
+<text x="66" y="65" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#6DE4D2">H / P    //    ROBOTICS &amp; SOFTWARE</text>
+<text x="66" y="142" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#6DE4D2">HELLO, WORLD_</text>
+<text x="66" y="228" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" fill="#E8F1F7">I&#x27;m Hiram Pérez.</text>
+<text x="66" y="286" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="400" fill="#E8F1F7">Building software that helps robots understand the world.</text>
+<text x="66" y="354" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#8DA4B7">ROS 2   /   VOICE AI   /   PYTHON   /   BACKEND ENGINEERING</text>
+<path d="M66 392H1134" stroke="#284454" stroke-width="2"/>
+<g fill="none" stroke="#284454" stroke-width="1.5"><path d="M1200 82H1138L1110 110H1048M1200 172H1160L1132 200H1082"/><circle cx="1048" cy="110" r="4"/><circle cx="1082" cy="200" r="4"/><path d="M1172 5V38L1154 56V92"/></g>
+
+</svg>

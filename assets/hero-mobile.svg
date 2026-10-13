@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="470" viewBox="0 0 720 470" role="img" aria-labelledby="title desc">
+<title id="title">I&#x27;m Hiram Pérez. Robotics, ROS 2, voice AI and backend engineering.</title>
+<desc id="desc">Readable mobile adaptation of the Figma typographic hero.</desc>
+
+<rect width="720" height="470" fill="#0B111B"/><rect width="720" height="5" fill="#6DE4D2"/>
+<text x="40" y="64" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#6DE4D2">H / P   //   ROBOTICS &amp; SOFTWARE</text>
+<text x="40" y="143" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#6DE4D2">HELLO, WORLD_</text>
+<text x="40" y="230" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" fill="#E8F1F7">I&#x27;m Hiram Pérez.</text>
+<text x="40" y="302" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="400" fill="#E8F1F7">Building software that helps robots</text>
+<text x="40" y="346" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="400" fill="#E8F1F7">understand the world.</text>
+<text x="40" y="413" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#8DA4B7">ROS 2 / VOICE AI / PYTHON / BACKEND</text>
+<path d="M40 444H680" stroke="#284454" stroke-width="2"/>
+<g fill="none" stroke="#284454" stroke-width="1.5"><path d="M720 105H675L650 130H586"/><circle cx="586" cy="130" r="4"/></g>
+
+</svg>
