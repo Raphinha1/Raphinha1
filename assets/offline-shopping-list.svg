@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="190" viewBox="0 0 720 190" role="img" aria-labelledby="title desc">
+<title id="title">offline-shopping-list</title>
+<desc id="desc">React · TypeScript · Fastify · PostgreSQL · Offline-first PWA</desc>
+
+<rect width="720" height="190" rx="12" fill="#142331"/>
+<rect x="36" y="28" width="46" height="4" rx="2" fill="#6DE4D2"/>
+<text x="36" y="99" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#E8F1F7">offline-shopping-list</text>
+<text x="36" y="151" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="400" fill="#8DA4B7">React · TypeScript · Fastify · PostgreSQL</text>
+<g transform="translate(592 14)" fill="none" stroke="#6DE4D2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M29 42h50l-5 42H35zM25 42l-6-12h-8M41 51v21M55 51v21M69 51v21"/><circle cx="41" cy="96" r="4"/><circle cx="69" cy="96" r="4"/><path d="M48 30h18M57 21v18"/></g>
+</svg>

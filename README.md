@@ -36,6 +36,12 @@ The public repository preserves the April 2026 implementation in a standalone wo
 
 ## Selected Projects
 
+[![offline-shopping-list — React, TypeScript, Fastify and PostgreSQL. View repository.](assets/offline-shopping-list.svg)](https://github.com/Raphinha1/offline-shopping-list)
+
+An offline-first family grocery PWA with a categorized product catalog, pending list, active purchase and optional prices. It stores shopping actions locally, queues them for ordered synchronization when connectivity returns, and supports authorization and revocation of paired devices. Catalog changes require a connection.
+
+[View offline-shopping-list](https://github.com/Raphinha1/offline-shopping-list)
+
 [![agenda-fastapi — Python, FastAPI, SQLModel and Jinja2. View repository.](assets/agenda-fastapi.svg)](https://github.com/Raphinha1/agenda-fastapi)
 
 An academic contact manager with an authenticated REST API, JWT authentication, per-user contact access, and server-rendered Jinja2 views.
