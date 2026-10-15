@@ -36,6 +36,12 @@ The public repository preserves the April 2026 implementation in a standalone wo
 
 ## Selected Projects
 
+[![Viresta Android — Kotlin, Jetpack Compose and Room. View repository.](assets/viresta-android.svg)](https://github.com/Raphinha1/viresta-android)
+
+A local-first Android tracker for workouts, nutrition, and recovery, built with Kotlin, Jetpack Compose, and Room. Includes exercise routines, meal planning, manual sleep tracking, and local backups. The public source documents current feature limitations and privacy considerations.
+
+[View Viresta Android](https://github.com/Raphinha1/viresta-android)
+
 [![offline-shopping-list — React, TypeScript, Fastify and PostgreSQL. View repository.](assets/offline-shopping-list.svg)](https://github.com/Raphinha1/offline-shopping-list)
 
 An offline-first family grocery PWA with a categorized product catalog, pending list, active purchase and optional prices. It stores shopping actions locally, queues them for ordered synchronization when connectivity returns, and supports authorization and revocation of paired devices. Catalog changes require a connection.
