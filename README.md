@@ -36,6 +36,12 @@ The public repository preserves the April 2026 implementation in a standalone wo
 
 ## Selected Projects
 
+[![ESP32 Line Follower — Arduino C++, ESP32 and PD/PID control. View repository.](assets/esp32-line-follower.svg)](https://github.com/Raphinha1/esp32-line-follower)
+
+Two preserved Arduino/ESP32 sketches from a university line-following robot project: a 16-channel multiplexed sensor array with PD steering and an alternative calibrated PID implementation using FreeRTOS. Hardware and build validation remain unverified, and neither variant is identified as final competition firmware.
+
+[View ESP32 Line Follower](https://github.com/Raphinha1/esp32-line-follower)
+
 [![Viresta Android — Kotlin, Jetpack Compose and Room. View repository.](assets/viresta-android.svg)](https://github.com/Raphinha1/viresta-android)
 
 A local-first Android tracker for workouts, nutrition, and recovery, built with Kotlin, Jetpack Compose, and Room. Includes exercise routines, meal planning, manual sleep tracking, and local backups. The public source documents current feature limitations and privacy considerations.
