@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="190" viewBox="0 0 720 190" role="img" aria-labelledby="title desc">
+<title id="title">ESP32 Line Follower</title>
+<desc id="desc">ESP32 · Arduino C++ · PD/PID · 16-channel sensor array</desc>
+<rect width="720" height="190" rx="12" fill="#142331"/>
+<rect x="36" y="28" width="46" height="4" rx="2" fill="#6DE4D2"/>
+<text x="36" y="99" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#E8F1F7">ESP32 Line Follower</text>
+<text x="36" y="151" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#8DA4B7">Arduino C++ · PD/PID · Sensors</text>
+<g transform="translate(599 32)" fill="none" stroke="#6DE4D2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="5" y="13" width="89" height="65" rx="11"/>
+<rect x="23" y="28" width="51" height="32" rx="6"/>
+<circle cx="22" cy="89" r="12"/><circle cx="76" cy="89" r="12"/>
+<path d="M15 112h68M21 120v7M34 120v7M47 120v7M60 120v7M73 120v7"/>
+</g></svg>
