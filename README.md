@@ -42,6 +42,12 @@ A local-first Android tracker for workouts, nutrition, and recovery, built with 
 
 [View Viresta Android](https://github.com/Raphinha1/viresta-android)
 
+[![Ventro Resto — Java 21, Spring Boot and PostgreSQL. View repository.](assets/ventro-resto.svg)](https://github.com/Raphinha1/ventro-resto)
+
+A restaurant operations application built with Java 21, Spring Boot, Thymeleaf, and PostgreSQL. Includes point of sale, kitchen display, tables and reservations, recipes, cash shifts, reporting, and staged inventory workflows. Published as a source-only portfolio snapshot, not a production-ready deployment.
+
+[View Ventro Resto](https://github.com/Raphinha1/ventro-resto)
+
 [![offline-shopping-list — React, TypeScript, Fastify and PostgreSQL. View repository.](assets/offline-shopping-list.svg)](https://github.com/Raphinha1/offline-shopping-list)
 
 An offline-first family grocery PWA with a categorized product catalog, pending list, active purchase and optional prices. It stores shopping actions locally, queues them for ordered synchronization when connectivity returns, and supports authorization and revocation of paired devices. Catalog changes require a connection.
