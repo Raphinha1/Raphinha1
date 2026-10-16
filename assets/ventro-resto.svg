@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="190" viewBox="0 0 720 190" role="img" aria-labelledby="title desc">
+<title id="title">Ventro Resto</title>
+<desc id="desc">Java 21 · Spring Boot · PostgreSQL · Restaurant operations application</desc>
+<rect width="720" height="190" rx="12" fill="#142331"/>
+<rect x="36" y="28" width="46" height="4" rx="2" fill="#6DE4D2"/>
+<text x="36" y="99" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#E8F1F7">Ventro Resto</text>
+<text x="36" y="151" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#8DA4B7">Java 21 · Spring Boot · PostgreSQL</text>
+<g transform="translate(595 35)" fill="none" stroke="#6DE4D2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="4" y="34" width="88" height="58" rx="9"/>
+<path d="M16 34v-8h64v8M22 46h52M22 60h38M22 74h47"/>
+<path d="M27 16c0-7 11-7 11-14M47 16c0-7 11-7 11-14M67 16c0-7 11-7 11-14"/>
+</g>
+</svg>
